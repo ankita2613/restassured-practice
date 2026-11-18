@@ -1,5 +1,7 @@
 # API Testing with Rest Assured: JSONPlaceholder
 
+![API tests](https://github.com/ankita2613/restassured-practice/actions/workflows/tests.yml/badge.svg)
+
 Automated API tests in Java for the practice API https://jsonplaceholder.typicode.com.
 The same checks also exist as a Postman collection in my `api-testing-postman` repository.
 
